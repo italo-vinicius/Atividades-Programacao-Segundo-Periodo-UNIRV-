@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/*
+ Implementar um programa para ler 5 notas de alunos e imprimi-las.
+*/
 int main()
 {
     int notas[5];
