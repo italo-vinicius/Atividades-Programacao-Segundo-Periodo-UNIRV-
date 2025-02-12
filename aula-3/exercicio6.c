@@ -18,4 +18,6 @@ int main()
 
     mediaFinal = somaNotas / 10;
     printf("\nSua media final foi de %.2f", mediaFinal);
+
+    return 0;
 }
